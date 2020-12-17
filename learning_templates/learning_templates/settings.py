@@ -27,7 +27,7 @@ SECRET_KEY = '5*po%red7-$_xub!qmvr#5!+xi1#8=ze^hjcx!jlyj=9pv^6_z'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['psb2018.pythonanywhere.com',]
 
 
 # Application definition
